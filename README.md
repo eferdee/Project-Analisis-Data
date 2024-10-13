@@ -16,7 +16,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-##Run Streamlit
+## Run Streamlit
 ```
 streamlit run latihan_dashboard.py
 ```
